@@ -1,1 +1,10 @@
 # testes-kubernetes
+
+<h2>Comandos</h2>
+<ul>
+  <li>kubectl get nodes</li>
+  <li>kubectl get pods</li>
+  <li>kubectl apply -f nomeArquivo.yaml</li>
+
+
+</ul>
