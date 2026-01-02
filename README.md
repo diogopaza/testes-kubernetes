@@ -6,6 +6,7 @@
   <li>kubectl get pods</li>
   <li>kubectl apply -f nomeArquivo.yaml</li>
   <li>kubectl get pods -o wide == lista os pods com mais informcoes, alem das basicas</li>
+  <li>kubectl get svc == lista os SVC</li>
 </ul>
 
 <h3>SVC</h3>
