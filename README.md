@@ -14,3 +14,6 @@
 
 <h4>ClusterIp - SVC</h4>
 <p>Apenas para comunicao interna. </p>
+
+<h4>NodePort - SVC</h4>
+<p>Abre comunicacao com o mundo externo.</p>
