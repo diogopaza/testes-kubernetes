@@ -10,3 +10,6 @@
 
 <h3>SVC</h3>
 <p>Sao abstracoes para expor aplicacoes executando em um ou mais pods; proveem IP's fixos para comunicacao; sao capazes de fazer balanceamento de carga.</p>
+
+<h4>ClusterIp - SVC</h4>
+<p>Apenas para comunicao interna. </p>
