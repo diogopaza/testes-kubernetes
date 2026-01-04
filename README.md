@@ -18,3 +18,6 @@
 
 <h4>NodePort - SVC</h4>
 <p>Abre comunicacao com o mundo externo.</p>
+
+<h3>ConfigMap</h3>
+<p></p>
